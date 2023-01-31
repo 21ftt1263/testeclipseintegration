@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("GitHub");
 		ClassA classA = new ClassA("ABCDEF");
 		System.out.println(classA.getAbc());
+		System.out.println("Ngalih ku bih");
 	}
 }
