@@ -6,6 +6,6 @@ public class Test {
 		ClassA classA = new ClassA("ABCDEF");
 		System.out.println(classA.getAbc());
 		System.out.println("Ngalih ku bih");
-		
+		System.out.println("kastah balikkk");
 	}
 }
